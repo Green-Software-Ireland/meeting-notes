@@ -1,8 +1,8 @@
 # Launch event
 
-![Green Software Ireland](green-software-ireland.png)
+![Green Software Ireland](./images/green-software-ireland.png)
 
-It was the launc event for the new community `Green Software Ireland` organized by `[John B.](https://github.com/jjmax75)`.
+It was the launch event for the new community `Green Software Ireland` organized by [John B.](https://github.com/jjmax75).
 
 | **Meeting Notes** |                                                                                             |
 |-------------------|---------------------------------------------------------------------------------------------|
